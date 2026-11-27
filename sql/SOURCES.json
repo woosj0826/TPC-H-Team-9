@@ -1,0 +1,112 @@
+[
+  {
+    "query": 1,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q1.sql",
+    "sha256": "b19fe0c93c0fea32928a812e045aa5d00cdee47d81de4e699c554e77dc18bae7"
+  },
+  {
+    "query": 2,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q2.sql",
+    "sha256": "3b9c4c479ca156a0137b18e32aa00d0aa8654766743f412b48e949b62c4a99a1"
+  },
+  {
+    "query": 3,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q3.sql",
+    "sha256": "9223f83f6259e65a9e33905949821489f91a58d52aaff242e542528fdb3844da"
+  },
+  {
+    "query": 4,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q4.sql",
+    "sha256": "1c253247a4b54ad95a3cd15acfaa3f3d654244a30474a63a6baf670024d5a238"
+  },
+  {
+    "query": 5,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q5.sql",
+    "sha256": "5fe832de65889e267affedc8b9e43e29001ad605e30bf1bb77bff160e6f052f3"
+  },
+  {
+    "query": 6,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q6.sql",
+    "sha256": "0786e07769c121c533939c27470005fe32936efbf053570f15e3cbb2a5c48b93"
+  },
+  {
+    "query": 7,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q7.sql",
+    "sha256": "31c03e09a7a5d375361018c18e5ff6cd1622cff12c43a4403190fd20be4d0bb8"
+  },
+  {
+    "query": 8,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q8.sql",
+    "sha256": "adabd4d80babfd2c35f0de9a256f0a4af52d3242ca09a7c276bb04bb1fec1042"
+  },
+  {
+    "query": 9,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q9.sql",
+    "sha256": "17c1568d99fe5e1aa3612559892a14a2fb33d3a9ffe4f68b25f58f93aca1aec3"
+  },
+  {
+    "query": 10,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q10.sql",
+    "sha256": "35a658f5484335134a647a0502a0b24cb24d9d4201dab00dfcff15831ee92244"
+  },
+  {
+    "query": 11,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q11.sql",
+    "sha256": "3d91a82c7cf6625843b02ad81e05d904edc2af70e8a9d218a77ce127ecbb1f35"
+  },
+  {
+    "query": 12,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q12.sql",
+    "sha256": "f3d79186aa23ae7f3b6eadc5741580ff7ac617b845edcc4874510bc0ecee91bd"
+  },
+  {
+    "query": 13,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q13.sql",
+    "sha256": "001ab2482318e4b190f7d2e33da38b8dac35325aebf4ff784241dd5faa77f4f1"
+  },
+  {
+    "query": 14,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q14.sql",
+    "sha256": "415d0c392c24bd9c80c964b535ed5e045140e5cb23fac8793a39fe22a5b4eb60"
+  },
+  {
+    "query": 15,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q15.sql",
+    "sha256": "2a5b9c0472f6134344e8c672b5178c6c385343e36cac301101a30752dce0852b"
+  },
+  {
+    "query": 16,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q16.sql",
+    "sha256": "df6c02b7102c46f7e247a827272ddc11d2c45f9377b1db4b79468e5fd8c07cd9"
+  },
+  {
+    "query": 17,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q17.sql",
+    "sha256": "3be9fd9681405a789e3b7fe5d072331d21a9228fd4ba2f84dfea3b2d9ed9df2f"
+  },
+  {
+    "query": 18,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q18.sql",
+    "sha256": "864063fbecfd736f96551f541e839f625037e0da0cb81dff69bc39d20a1ade75"
+  },
+  {
+    "query": 19,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q19.sql",
+    "sha256": "1311a6b563bb86b8e341f14a85a2849805065e2ee141645c65af1491bb611454"
+  },
+  {
+    "query": 20,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q20.sql",
+    "sha256": "80b17f6132df79631a53b55deb4de91b8863189e19319f6ead9b9949feef9245"
+  },
+  {
+    "query": 21,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q21.sql",
+    "sha256": "6c64de3af8977d0b6a54e96b5008ea898d4dcfa450d4b18847eae9f080a6aa16"
+  },
+  {
+    "query": 22,
+    "source": "https://raw.githubusercontent.com/apache/spark/v3.5.7/sql/core/src/test/resources/tpch/q22.sql",
+    "sha256": "443608474a6b322d2e705bcb05a3a7669ec8d975f2aa1f0df88791343f534022"
+  }
+]

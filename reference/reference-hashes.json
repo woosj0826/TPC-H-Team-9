@@ -1,0 +1,90 @@
+{
+  "1": {
+    "rows": 4,
+    "sha256": "7582213ff5c2c1239f9957bb20020029d51387c8df0dddb201ba5232933017df"
+  },
+  "2": {
+    "rows": 100,
+    "sha256": "d2a894ef2c513bb9f076d05d669d8445a16c415bdd8158873768d6a08a9b5193"
+  },
+  "3": {
+    "rows": 10,
+    "sha256": "ad6079059cfd77b6de5dba2186d0bd9a7bdc66fa99826d2f31c0ad070be1e518"
+  },
+  "4": {
+    "rows": 5,
+    "sha256": "9403b98a348f94e02f3eecd90339a1e399b1ae77384c08a4c37a8db0959f8cee"
+  },
+  "5": {
+    "rows": 5,
+    "sha256": "bcb0a5e812c2da322b6b1368bdfd43c0a14fd5105151f6d1fd0b36f61dc4cb38"
+  },
+  "6": {
+    "rows": 1,
+    "sha256": "1e22f778cf1d18f6811019332d90fa9370e9ddeeaae917150c929a8c1749b4cf"
+  },
+  "7": {
+    "rows": 4,
+    "sha256": "ea9351ae7c857eeb2c5029fb542acb42b60eab084a4a6a5bafe94895d3283e20"
+  },
+  "8": {
+    "rows": 2,
+    "sha256": "6c8e3c58edadd21de0c8e14d569ffad3495a28a0327bc5e0c9f217d2f6915a00"
+  },
+  "9": {
+    "rows": 175,
+    "sha256": "fa80f416547113a3f4080d227181ee127392bc3f1b39497fb1ad220086bb64bd"
+  },
+  "10": {
+    "rows": 20,
+    "sha256": "7dda265048cb94ce134196f1998070756ad37907f89da1ac76c39dbcf5b83bc5"
+  },
+  "11": {
+    "rows": 92698,
+    "sha256": "077d64539d207af03c4bb83f9b3baf76f7c68456d920580889818b236033d96e"
+  },
+  "12": {
+    "rows": 2,
+    "sha256": "e100ebe65d92451079738b0b08adc892ea5520d51570bcca123639c153e106ac"
+  },
+  "13": {
+    "rows": 45,
+    "sha256": "46bd8034b75e7a557a9ca1348eee0db26506b86d589357f64d590ec6b77bb0eb"
+  },
+  "14": {
+    "rows": 1,
+    "sha256": "efcf305b67e4412b837bd7a738e95d0a2768a4845eaa9403dae1be908c874136"
+  },
+  "15": {
+    "rows": 1,
+    "sha256": "021d4d14d5b8bc3072b970ebc714b9a2dc73a40de06923a5061ecb159371158a"
+  },
+  "16": {
+    "rows": 27840,
+    "sha256": "ac65e12a7767cec2fbedf03ffad5fbbb955459223c444d27ed2bcdc66cdd2dca"
+  },
+  "17": {
+    "rows": 1,
+    "sha256": "c05ece9d24e0d769f7707b0d691953217ade28b5ca57d4bc354eb8cdc306e1ff"
+  },
+  "18": {
+    "rows": 100,
+    "sha256": "173015866856ad8e86a77cd9f30e932ea7f660a5a92591de4684a04140b84210"
+  },
+  "19": {
+    "rows": 1,
+    "sha256": "6690d458bed16ef3241883a4ed46b1ad6b22c310de13499cdc8887eeda276208"
+  },
+  "20": {
+    "rows": 17971,
+    "sha256": "80648d1e203d81c6e67e36bccf27a47e2d6e598b1311e506f01813b79ff7028d"
+  },
+  "21": {
+    "rows": 100,
+    "sha256": "2786228438c69d2d09903f6ea23a8550b4ee2e0f18c79a83f024965fad71cde5"
+  },
+  "22": {
+    "rows": 7,
+    "sha256": "02b2808e65618a1ede827410e544b71d8b3044660a955d300913e9deb795d4f8"
+  }
+}
